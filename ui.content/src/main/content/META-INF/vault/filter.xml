@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/myheadache" mode="merge"/>
+    <filter root="/content/myheadache" mode="merge"/>
+    <filter root="/content/dam/myheadache/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/myheadache" mode="merge"/>
+</workspaceFilter>
