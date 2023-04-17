@@ -37,7 +37,7 @@ import java.util.Optional;
 public class HelloWorldModel {
 
     @ValueMapValue(name=PROPERTY_RESOURCE_TYPE, injectionStrategy=InjectionStrategy.OPTIONAL)
-    @Default(values="No resourceType")
+    @Default(values="No ...resourceType")
     protected String resourceType;
 
     @SlingObject
